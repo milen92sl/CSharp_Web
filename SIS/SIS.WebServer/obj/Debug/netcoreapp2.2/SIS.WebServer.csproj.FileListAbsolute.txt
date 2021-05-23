@@ -1,0 +1,12 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.deps.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csprojAssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.AssemblyInfoInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.AssemblyInfo.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csproj.CopyComplete
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.pdb
