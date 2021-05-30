@@ -1,0 +1,13 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.exe
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.deps.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.runtimeconfig.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.runtimeconfig.dev.json
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\bin\Debug\netcoreapp3.1\MyWebServer.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.csprojAssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.AssemblyInfoInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.AssemblyInfo.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.dll
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.pdb
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\Workshop Exercice\MyWebServer\MyWebServer\obj\Debug\netcoreapp3.1\MyWebServer.genruntimeconfig.cache
