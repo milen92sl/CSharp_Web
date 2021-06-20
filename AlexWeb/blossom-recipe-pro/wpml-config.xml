@@ -1,0 +1,38 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_blossom-recipe-pro">
+            <key name="blogname" />
+            <key name="blogdescription" />
+            <key name="load_more_label" />
+            <key name="loading_label" />
+            <key name="no_more_label" />
+            <key name="banner_title"/>
+            <key name="banner_subtitle"/>
+            <key name="slider_custom">
+                <key name="*">
+                    <key name="title" />
+                    <key name="subtitle" /> 
+                </key>                
+            </key>
+            <key name="custom">
+                <key name="*">
+                    <key name="title" /> 
+                </key>                
+            </key>            
+            <key name="social_share_title"/>
+            <key name="read_more_text"/>
+            <key name="author_title"/>
+            <key name="single_newsletter_shortcode"/>
+            <key name="related_post_title"/>
+            <key name="related_post_blog_title"/>
+            <key name="header_newsletter_shortcode"/>
+            <key name="sidebar">
+                <key name="*">
+                    <key name="name" /> 
+                </key>
+            </key>
+            <key name="home_post_ad_title"/>
+            <key name="footer_copyright"/>
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,9 @@
+.child-inner-link{
+    text-decoration: underline;
+    color: #0073aa;
+    cursor: pointer;
+}
+
+.child-inner-link:hover{
+    color: #00a0d2;
+} 

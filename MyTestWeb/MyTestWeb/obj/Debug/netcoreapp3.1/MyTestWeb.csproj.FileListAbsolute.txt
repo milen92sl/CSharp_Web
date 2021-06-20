@@ -1,0 +1,7 @@
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.csproj.AssemblyReference.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.AssemblyInfoInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.AssemblyInfo.cs
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.csproj.CoreCompileInputs.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.RazorAssemblyInfo.cache
+D:\SOFTUNI C# WEB DEV MILEN IVANOV\C# WEB\MyTestWeb\MyTestWeb\obj\Debug\netcoreapp3.1\MyTestWeb.RazorAssemblyInfo.cs
