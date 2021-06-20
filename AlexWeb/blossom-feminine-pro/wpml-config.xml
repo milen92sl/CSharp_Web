@@ -1,0 +1,137 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_blossom-feminine-pro">
+            <key name="slider_custom">
+                <key name="0">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="3">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="4">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="5">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="6">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="7">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="8">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="9">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="10">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="11">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="12">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="13">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="14">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="15">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="16">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="17">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="18">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="19">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+            </key>            
+            <key name="home_text" />
+            <key name="separator" />
+            <key name="read_more_text" />
+            <key name="related_post_title" />
+            <key name="popoular_post_title" />
+            <key name="notification_text" />
+            <key name="notification_btn_label" />
+            <key name="newsletter_shortcode" />
+            <key name="featured_custom">
+                <key name="0">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="1">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+                <key name="2">
+                    <key name="title" />
+                    <key name="subtitle" />
+                    <key name="link" /> 
+                </key>
+            </key>
+            <key name="load_more_label" />
+            <key name="loading_label" />
+            <key name="no_more_label" />
+            <key name="footer_copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,14 @@
+#sub-accordion-section-header_image .customize-section-description-container .customize-section-title .customize-control-notifications-container{
+    visibility: hidden;
+    height: 0;    
+}
+
+.child-inner-link{
+    text-decoration: underline;
+    color: #0073aa;
+    cursor: pointer;
+}
+
+.child-inner-link:hover{
+    color: #00a0d2;
+}
